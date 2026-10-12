@@ -1,0 +1,6 @@
+{
+  "name": "PulseGuard AI",
+  "description": "Cross-platform AI health monitoring ecosystem with duplicate prevention, real-time risk detection, and emergency workflows",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
